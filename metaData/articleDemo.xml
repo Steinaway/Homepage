@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<articles>
+	<article>
+		<author>Meine Meinung zu Webdesign</author>
+		<date>08.2.2018</date>
+		<text>
+			Ich finde das Websites so schlicht und unkompliziert wie möglich gestaltet werden sollten. Je schlichter und je übersichtlicher das Design desto besser werden die Besucher sich die Seite in Erinnerung behalten. Die Auswahl der Farben spielt unter anderem auch eine wichtige Rolle denn zu schräge Farben können unangenehm auf die Augen der Nutzer wirken. Ich finde eine Website sollte nicht von 35 tausend  zeilen an code beherrscht werden die bei jedem normalen Smartphone die Wartezeiten und die Browser Kapazität sprengen. Javascript wurde ursprünglich zur manipulation des Document Object Models also NodeLists erfunden und nicht unbedingt zur Objektorientierten Programmierung. Die neueren Versionen des "Vanilla" Javascripts es5 , es6 haben auch schon überwiegend OOP features und verschiedene Arten von Variablen. Die neuen Features sind  hilfreich und cool und erpsaren dir einen Haufen Arbeit. Nachdem diese Features in Browsern implementiert werden sehe ich keinen Grund warum man für single-Page Websites gezwungener Maßen ein framework wie Bootstrap oder Foundation braucht. Auch solche lightweight css only frameworks wie Skeletion sind hier meiner Meinung nach Overkill. Diese Frameworks sollten für Kommerzielle Zwecke benutzt werden , also für Websites mit einem riesigen Baum an untergeordneten seiten , aber nicht für eine individuelle Designer Website. Was ich zusätzlich noch an Frameworks hasse ist , dass die meisten anwender garnicht mal mehr verstehen was überhaupt passiert , und dem Entwickler somit die möglichkeit genommen wird  die Kontrolle über das gelieferte Ergebnis zu übernehmen. 
+		</text>
+	</article>
+	<article>
+		<author>Meine Hompage</author>
+		<date>08.2.2018</date>
+		<text>
+			Meine Homepage ist ein fortlaufendes Projekt an dem ich  weiterhin auch nach dem Deployment arbeiten werde.
+			Diese Website dient als Präsentation meines Web Know Hows. Den Quellcode findet man auch auf Github unter meinem Account.
+		</text>
+		<url>http://nicholasadam.at</url>
+	</article>
+	<article>
+		<author>Shufflelist <span class="icon-soundcloud"></span></author>
+		<date>1.2.2017</date>
+		<text>
+			Shufflelist ist ein Projekt welches ich durch ein Schulprojekt ins Leben gerufen habe. Es ist eine Web APP die mittels der SoundCloud Api Musik abruft und abspielen kann. In diesem Projekt hab ich sehr viel Erfahrung gesammelt und es ist bis jetzt mein allergrößtes Projekt gewesen. Es ist auch möglich eigene Playlists zu finden und abzufragen solange sie mittels SoundCloud veröffentlicht worden sind. Die Idee hinter dem Projekt war mit einer völlig fremden API zu arbeiten und diese in kurzer Zeit kennzulernen. Die Funktionalität dieser App ist sehr hoch und ziemlich Komplex. 
+		</text>
+		<url>http://shufflelist.at</url>
+	</article>
+
+	
+
+
+
+
+</articles>
+
